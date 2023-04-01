@@ -1,0 +1,21 @@
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\bin\Debug\Bakhrabad Gas.exe.config
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\bin\Debug\Bakhrabad Gas.exe
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\bin\Debug\Bakhrabad Gas.pdb
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Form1.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.exe
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad Gas.pdb
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Admin.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Login.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Dashboard.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Employee.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\bin\Debug\GasDB.mdf
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\bin\Debug\GasDB_log.ldf
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Bill.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Supplyer.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Type.resources
+C:\Users\ASUS\Desktop\Bakhrabad Gas\Bakhrabad Gas\obj\Debug\Bakhrabad_Gas.Users.resources
